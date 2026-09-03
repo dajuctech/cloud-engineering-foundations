@@ -9,3 +9,11 @@
 - Pull requests help review changes.
 - Issues help track tasks.
 - `.gitignore` helps prevent unsafe files from being committed.
+
+## Why Branches Matter
+
+Branches help me work on changes without touching the main version directly.
+
+## Why Pull Requests Matter
+
+Pull requests help me review and explain changes before merging them.
