@@ -9,3 +9,6 @@ terraform.tfstate.backup
 node_modules/
 __pycache__/
 /steps-by-steps-process.md
+.env.*
+!.env.example
+
