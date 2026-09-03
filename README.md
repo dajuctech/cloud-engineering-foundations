@@ -30,3 +30,8 @@ cloud-engineering-foundations/
 +-- scripts/
 +-- .gitignore
 +-- lessons-learned.md
+```
+
+## Safety Notes
+
+This repository should not contain secrets, passwords, access keys, `.pem` files, AWS credentials, or Terraform state files.

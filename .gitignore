@@ -1,4 +1,3 @@
-/steps-by-steps-process.md
 .env
 *.pem
 *.key
@@ -9,3 +8,4 @@ terraform.tfstate.backup
 .DS_Store
 node_modules/
 __pycache__/
+/steps-by-steps-process.md
